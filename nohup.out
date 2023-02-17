@@ -62,3 +62,10 @@ Not Found: /favicon.ico
 [17/Feb/2023 14:48:24] "GET /todos/ HTTP/1.1" 200 3515
 [17/Feb/2023 14:48:25] "GET /static/css/style.css HTTP/1.1" 304 0
 [17/Feb/2023 14:57:08] "GET / HTTP/1.1" 302 0
+[17/Feb/2023 15:16:53] "GET / HTTP/1.1" 302 0
+[17/Feb/2023 15:48:42] "GET / HTTP/1.1" 302 0
+[17/Feb/2023 15:55:14] "GET / HTTP/1.1" 302 0
+[17/Feb/2023 15:55:14] "GET /todos HTTP/1.1" 301 0
+[17/Feb/2023 15:55:14] "GET /todos/ HTTP/1.1" 200 3515
+[17/Feb/2023 16:30:50] code 400, message Bad request syntax ('MGLNDD_137.117.107.181_8000')
+[17/Feb/2023 16:30:50] "MGLNDD_137.117.107.181_8000" 400 -
